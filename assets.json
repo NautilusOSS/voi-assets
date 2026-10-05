@@ -1,0 +1,766 @@
+{
+  "version": 1,
+  "updated": "2026-10-05T00:39:05Z",
+  "description": "Index of Voi asset logo files keyed by asset ID",
+  "asset_count": 60,
+  "file_count": 119,
+  "assets": {
+    "41081": {
+      "png": {
+        "path": "assets/41081.png",
+        "bytes": 69675,
+        "sha256": "a18fd096d5fe6a69108b8adae1eae6df8d35c4eed21d267d99c2a6e287ceead3"
+      }
+    },
+    "300279": {
+      "png": {
+        "path": "assets/300279.png",
+        "bytes": 733667,
+        "sha256": "17bc938871b992d5e038e0151f957ac370afafe8566fc94010adf136d9c202a8"
+      },
+      "svg": {
+        "path": "assets/300279.svg",
+        "bytes": 21483,
+        "sha256": "95217a3e940e05c5ab3ac7daba33a0263464a46b310329e1a490f6fcb592482e"
+      }
+    },
+    "302222": {
+      "png": {
+        "path": "assets/302222.png",
+        "bytes": 8858,
+        "sha256": "2f3bdf3c4a9b02d310b60110fce8bf4d0154a8b80f4edc69c24d07d4fdac39f1"
+      },
+      "svg": {
+        "path": "assets/302222.svg",
+        "bytes": 582,
+        "sha256": "01a4127785b6814318c1c6cb15c2e9f820ebc438c4c22ee368c4a415959852bf"
+      }
+    },
+    "395614": {
+      "png": {
+        "path": "assets/395614.png",
+        "bytes": 43727,
+        "sha256": "463d9682e72ca1eb48cf673b4868016e7634a5d9e699fdb26a0fac4e2bb876d8"
+      },
+      "svg": {
+        "path": "assets/395614.svg",
+        "bytes": 64785,
+        "sha256": "94ab25f87a3b7ae332d0038ec4458ee7edb2839b9ac721b5f77752ae345befae"
+      }
+    },
+    "404004": {
+      "png": {
+        "path": "assets/404004.png",
+        "bytes": 22789,
+        "sha256": "65da49eab9a02d0bee47ddf2106e23f81df13fcd39ce391d0f55638b8e639459"
+      },
+      "svg": {
+        "path": "assets/404004.svg",
+        "bytes": 59552,
+        "sha256": "b14320281b6979ae5d27c6861b099e34f22e7276ac42958bd3aa988d6f44b9ac"
+      }
+    },
+    "410111": {
+      "png": {
+        "path": "assets/410111.png",
+        "bytes": 395008,
+        "sha256": "408e519816abc8f54844a48249b9b45500b0c32a80a53f87482a704903aced4f"
+      },
+      "svg": {
+        "path": "assets/410111.svg",
+        "bytes": 706096,
+        "sha256": "30b8b990aa48ec0212d0d3a45efd4a61806c98695a606c0235e4778aad5f0550"
+      }
+    },
+    "410419": {
+      "png": {
+        "path": "assets/410419.png",
+        "bytes": 218049,
+        "sha256": "2a0e4253fbc5600b241326820cc2c55f77d81eea86d9420166b04ed39a9c0365"
+      },
+      "svg": {
+        "path": "assets/410419.svg",
+        "bytes": 60477,
+        "sha256": "e621f7d8f5a08fa2ed6fad1120e479e827c71dc949f643028154cf1355a183cd"
+      }
+    },
+    "410811": {
+      "png": {
+        "path": "assets/410811.png",
+        "bytes": 74514,
+        "sha256": "4c885fddc1374006ee5a4bbe86e79ec6c523554f2df7b807f46b43aa69f5905f"
+      },
+      "svg": {
+        "path": "assets/410811.svg",
+        "bytes": 122910,
+        "sha256": "adeca8200e58c46b32c1af6c2a6105e4a69de1ffd01169bc460cbed2e3c0aac4"
+      }
+    },
+    "411311": {
+      "png": {
+        "path": "assets/411311.png",
+        "bytes": 80232,
+        "sha256": "62d653e9865b1447b1ac480205769548f263d6ff06d74139d486635c34b5fc3e"
+      },
+      "svg": {
+        "path": "assets/411311.svg",
+        "bytes": 107110,
+        "sha256": "9e72fc902d5506598682544908d304f7ef88f1a8ae124f8493b5663d06d942da"
+      }
+    },
+    "412682": {
+      "png": {
+        "path": "assets/412682.png",
+        "bytes": 85636,
+        "sha256": "8b8747b001f80733b1a160073422603453c0238ffa973bfa170517b3e2905b8d"
+      },
+      "svg": {
+        "path": "assets/412682.svg",
+        "bytes": 103226,
+        "sha256": "00d3737c7c8b21869fc26b7e97eb17bc052295802ec85ccf47e3ead37ad744d9"
+      }
+    },
+    "413153": {
+      "png": {
+        "path": "assets/413153.png",
+        "bytes": 41556,
+        "sha256": "811456d1e4ee7666cb478c16a137a7fe3489ebdc5be302b89a534e338d571605"
+      },
+      "svg": {
+        "path": "assets/413153.svg",
+        "bytes": 2068,
+        "sha256": "73d621c957f50d27c09b70bd66846c80bc72a03a370a22ad748043979218fe65"
+      }
+    },
+    "416000": {
+      "png": {
+        "path": "assets/416000.png",
+        "bytes": 132431,
+        "sha256": "a89f507c45656cf207de4a384990e681adccdee08fc1e5756c19b36ba209503e"
+      },
+      "svg": {
+        "path": "assets/416000.svg",
+        "bytes": 176710,
+        "sha256": "537cc33fe485613754b678d076f99cdc08690f9379a04090da3bced9239ac598"
+      }
+    },
+    "417771": {
+      "png": {
+        "path": "assets/417771.png",
+        "bytes": 107882,
+        "sha256": "e7888e9ae053e9b2d9aa8353972cf48ebd06c2d2d38df7d2c89b94bc6fad5931"
+      },
+      "svg": {
+        "path": "assets/417771.svg",
+        "bytes": 143978,
+        "sha256": "5f1f7ee485d280e2900baa7320ce0f9d2263a7b0ab5f4d27c78beef3d80f240e"
+      }
+    },
+    "419000": {
+      "png": {
+        "path": "assets/419000.png",
+        "bytes": 185587,
+        "sha256": "ed691692b6d330bb8aacfd970d2ae50ea2f4da177937d0ca89503e6a24170a75"
+      },
+      "svg": {
+        "path": "assets/419000.svg",
+        "bytes": 52226,
+        "sha256": "bbd197c118cbbe6535f0e279bbccaf56e9e8cba2727bcebb25b7b50db2871e7c"
+      }
+    },
+    "419385": {
+      "png": {
+        "path": "assets/419385.png",
+        "bytes": 47969,
+        "sha256": "9be761207e933557b162cb75bdaaa64c41007d9ad157ae72fb96bf9d333671dd"
+      },
+      "svg": {
+        "path": "assets/419385.svg",
+        "bytes": 64094,
+        "sha256": "ccf3453ea867894c369acd8eed85003ef5a29ec8839b133a6dd1a846396dc3c9"
+      }
+    },
+    "419420": {
+      "png": {
+        "path": "assets/419420.png",
+        "bytes": 135826,
+        "sha256": "75a1f045256744bd9411bacbf1eca421410a69fb10499cec3209a53290c65007"
+      },
+      "svg": {
+        "path": "assets/419420.svg",
+        "bytes": 181238,
+        "sha256": "ee07499450ad18bb1d8d54f05ee1280b41699722ff759f7f43be3987996f19cf"
+      }
+    },
+    "419674": {
+      "png": {
+        "path": "assets/419674.png",
+        "bytes": 88743,
+        "sha256": "3dd8dd96a885fa20c59624bf10dab2d2fdecb7ed5991148c6804073c98cde1b2"
+      },
+      "svg": {
+        "path": "assets/419674.svg",
+        "bytes": 148365,
+        "sha256": "ffc9e92e375567c3652d9633bd7be8a2bfe0d94adce129bb7fede74acb8e1b5f"
+      }
+    },
+    "419714": {
+      "png": {
+        "path": "assets/419714.png",
+        "bytes": 25275,
+        "sha256": "592e648eb1789c2154ddfa8900fcbe73ee97b50ab5edc390087ca334ca0d37d8"
+      },
+      "svg": {
+        "path": "assets/419714.svg",
+        "bytes": 33834,
+        "sha256": "322d1fd228285c5703087827137607e93fb916ba17d86378d888911921f8f7d5"
+      }
+    },
+    "419744": {
+      "png": {
+        "path": "assets/419744.png",
+        "bytes": 133724,
+        "sha256": "2a6ba2427f18c44bcbdacff81d52155ec6f4479c77999b9bbb88b62d38d52d5a"
+      },
+      "svg": {
+        "path": "assets/419744.svg",
+        "bytes": 178434,
+        "sha256": "2df67481a64febe5199a13488d79895f8988f4778a7dcb064c6328f06f911fe0"
+      }
+    },
+    "419879": {
+      "png": {
+        "path": "assets/419879.png",
+        "bytes": 122727,
+        "sha256": "c50ea15f82da078557038e410983b91ed4e9e57a857d2daefb9a3354d9f2a59f"
+      },
+      "svg": {
+        "path": "assets/419879.svg",
+        "bytes": 163770,
+        "sha256": "9505952d288c02153ad8f4edb1510f356e180d8a161f50ff54b32f8480be57f9"
+      }
+    },
+    "419999": {
+      "png": {
+        "path": "assets/419999.png",
+        "bytes": 72381,
+        "sha256": "53c0ec4645d315f1858fed86f3073f5404a7264157f2a23bc57e2da5e820eb32"
+      },
+      "svg": {
+        "path": "assets/419999.svg",
+        "bytes": 96642,
+        "sha256": "36f5ed9d492e05fa1c2fbf2e57547a2d1db254c929ee1469a94a951a80214b3e"
+      }
+    },
+    "420019": {
+      "png": {
+        "path": "assets/420019.png",
+        "bytes": 47673,
+        "sha256": "aa03a1468ab2f96e3f5c91843cee3d1a254b0ba6e4de85a2b1adcef44fa09125"
+      },
+      "svg": {
+        "path": "assets/420019.svg",
+        "bytes": 63698,
+        "sha256": "535649ff9142d0c598581602ae64ef4cdd94742ff74e6467fc2c2a60f5201a4b"
+      }
+    },
+    "420024": {
+      "png": {
+        "path": "assets/420024.png",
+        "bytes": 139478,
+        "sha256": "0be18423c67eec484edea2992e8126e9f393578aa91539d22f25924898a6b836"
+      },
+      "svg": {
+        "path": "assets/420024.svg",
+        "bytes": 218580,
+        "sha256": "682d45ee1af31d772a77f9b64126502d899702296ad43e0d4877b0e933d41717"
+      }
+    },
+    "420029": {
+      "png": {
+        "path": "assets/420029.png",
+        "bytes": 107301,
+        "sha256": "f417d22acf44584dc54da8ce07046b80ec1a5e7797ab24e54f0a491357ae64ba"
+      },
+      "svg": {
+        "path": "assets/420029.svg",
+        "bytes": 143202,
+        "sha256": "d8d3f8a8a4f37bf73d2f1856add08cf1beda4f88ccfa5fe567ee2c70ddd71b6d"
+      }
+    },
+    "420049": {
+      "png": {
+        "path": "assets/420049.png",
+        "bytes": 117729,
+        "sha256": "c56fe972e214dc67eaa8ada8f668cf081e8e96b085b2cd5f1323aaa43eb54143"
+      },
+      "svg": {
+        "path": "assets/420049.svg",
+        "bytes": 157174,
+        "sha256": "87a4ae7db0c983b5afc2c78483f86cd05794b05701a4a55bb7104e3fe0f4d5fb"
+      }
+    },
+    "420064": {
+      "png": {
+        "path": "assets/420064.png",
+        "bytes": 74037,
+        "sha256": "efe8001fb9b1fd9219f5c35bcbc907b215254cabeeafe27bd343c525be36c679"
+      },
+      "svg": {
+        "path": "assets/420064.svg",
+        "bytes": 99202,
+        "sha256": "2e11e0c9a221116e480d585c3a89e403e05d68de889c54ae12d66649d1f52f23"
+      }
+    },
+    "420069": {
+      "png": {
+        "path": "assets/420069.png",
+        "bytes": 257611,
+        "sha256": "41e855b70ee5c1b6f57ed6b052b7ea4c5a794fe9f0cab947f5c4535cff5e1ff7"
+      },
+      "svg": {
+        "path": "assets/420069.svg",
+        "bytes": 138095,
+        "sha256": "06ba9d16bd40c026468c6afa422710ab4b5e29ed7f2372dccb5456725ce8f4a6"
+      }
+    },
+    "664258": {
+      "png": {
+        "path": "assets/664258.png",
+        "bytes": 202306,
+        "sha256": "5a14b5a609c4df61ccea302be067012f4c4c5e07b7b0213788579dac568bbca9"
+      },
+      "svg": {
+        "path": "assets/664258.svg",
+        "bytes": 176911,
+        "sha256": "42b44dc053673d757f1302d9de72106fc558c492dd6c19d190630c4eab5341e6"
+      }
+    },
+    "770561": {
+      "png": {
+        "path": "assets/770561.png",
+        "bytes": 87169,
+        "sha256": "29508e74fdd498ab639e872a3c9a9eb2b7b228064a356416b886e20b921758c0"
+      },
+      "svg": {
+        "path": "assets/770561.svg",
+        "bytes": 65916,
+        "sha256": "7258fbf7e5a2a7b652f50d61e30dafe3250b1b7df472a9c787db6c4804fca5ef"
+      }
+    },
+    "798948": {
+      "png": {
+        "path": "assets/798948.png",
+        "bytes": 19733,
+        "sha256": "97f2d5fddaeacbf8c513f5240cd50cb9d3fce78aafff909e916c85173cbfaa64"
+      },
+      "svg": {
+        "path": "assets/798948.svg",
+        "bytes": 43102,
+        "sha256": "1c7cd2589e8eab3209bbf5cc475ddd65947f694355f24d25185e6f8559ef843e"
+      }
+    },
+    "798968": {
+      "png": {
+        "path": "assets/798968.png",
+        "bytes": 121113,
+        "sha256": "31a9341922098a51cbda8011089374dccc2363b886d31d9f72acf9812ac6dc7d"
+      },
+      "svg": {
+        "path": "assets/798968.svg",
+        "bytes": 161618,
+        "sha256": "afb59c219956d19338530b707a19883acdda04e2b71ce79aca4ed3d331941007"
+      }
+    },
+    "799115": {
+      "png": {
+        "path": "assets/799115.png",
+        "bytes": 114359,
+        "sha256": "c4a282db6e2e32546d3242b42d5c8a1e55bb1f9440571be22205f6516c0067e3"
+      },
+      "svg": {
+        "path": "assets/799115.svg",
+        "bytes": 152614,
+        "sha256": "dd6dc484d1a5570d6a0cb389c7a6b1025a343aa2976094d2db046548a616b5c3"
+      }
+    },
+    "799121": {
+      "png": {
+        "path": "assets/799121.png",
+        "bytes": 16534,
+        "sha256": "7a1b1c444a19817e710440ee511efbbb2b05f2c00e1b720a3b969f051c4c2f4f"
+      },
+      "svg": {
+        "path": "assets/799121.svg",
+        "bytes": 22182,
+        "sha256": "b485fd1ba5d9a2a579a894cebf197a8401a8aa5b7dbd1293679be0470a7598be"
+      }
+    },
+    "799127": {
+      "png": {
+        "path": "assets/799127.png",
+        "bytes": 165721,
+        "sha256": "465746dcdccd1c706826f65477008cd9d51a28e4894e6e110766f09cf570e214"
+      },
+      "svg": {
+        "path": "assets/799127.svg",
+        "bytes": 221098,
+        "sha256": "67fd9fcdcd91841f8f3584bf48ed8fd581735176520d763ace3d9291dc627fc8"
+      }
+    },
+    "799133": {
+      "png": {
+        "path": "assets/799133.png",
+        "bytes": 91600,
+        "sha256": "1e9ec3e0e6058346ec895aa96fa6f29540ed5baa784441cffef88299530060db"
+      },
+      "svg": {
+        "path": "assets/799133.svg",
+        "bytes": 122270,
+        "sha256": "b37c3337c9811c54d38e861502fdac1040b16874f77c2d29463f44d6d6cd5156"
+      }
+    },
+    "859312": {
+      "png": {
+        "path": "assets/859312.png",
+        "bytes": 11363,
+        "sha256": "9f7091a43b8c6880165f15f71fcb8ae897f140a40e3ea4b3cf7d46791c1cc741"
+      },
+      "svg": {
+        "path": "assets/859312.svg",
+        "bytes": 14890,
+        "sha256": "71e72d2a94f3f8a3a1aae00db30289f81e362efbc5c60e1616b5ea2c0bb386e5"
+      }
+    },
+    "859317": {
+      "png": {
+        "path": "assets/859317.png",
+        "bytes": 9286,
+        "sha256": "c5824adc4f099916c088acdfc124a91ec389038ed60d028f0ad32d9c4efa27fb"
+      },
+      "svg": {
+        "path": "assets/859317.svg",
+        "bytes": 7470,
+        "sha256": "8433af37c2d4fa3cb7df28ae041f1b3b86dc032b89fde6e6b3b6025be0070f6e"
+      }
+    },
+    "8471125": {
+      "png": {
+        "path": "assets/8471125.png",
+        "bytes": 406856,
+        "sha256": "8d86c991cbd92bc7f1b4df41b648f3c2f1b37b1aac055e5da56ae43c4852b1b2"
+      },
+      "svg": {
+        "path": "assets/8471125.svg",
+        "bytes": 506733,
+        "sha256": "982631ec4fd302c1fec19bfa7bec58da93134eb98c622e81158dd8ea70eb23fe"
+      }
+    },
+    "39985642": {
+      "png": {
+        "path": "assets/39985642.png",
+        "bytes": 36356,
+        "sha256": "a58be6ff0308dbe0945aae1a9b654dac5bcc4e171a1b0bc135713dd5cd53d9ed"
+      },
+      "svg": {
+        "path": "assets/39985642.svg",
+        "bytes": 13135,
+        "sha256": "95b960f2a6eadd594e91588451cbd5338bf3e73631306373a178a573e307414a"
+      }
+    },
+    "40048753": {
+      "png": {
+        "path": "assets/40048753.png",
+        "bytes": 324426,
+        "sha256": "a8eee354b748c1f4df6b4b0fa054b4a2e239d3d41e82886d0f0e2dbd8e5fb966"
+      },
+      "svg": {
+        "path": "assets/40048753.svg",
+        "bytes": 52444,
+        "sha256": "97e95391b8d5a076aed50e3e00dd846b40d8bc0ec89a8704833267458d9e34c4"
+      }
+    },
+    "40153155": {
+      "png": {
+        "path": "assets/40153155.png",
+        "bytes": 79241,
+        "sha256": "cdddbc78065170f1c90b24d99f137996ac24a6c36f73cd3e6c7fa0266308e1f2"
+      },
+      "svg": {
+        "path": "assets/40153155.svg",
+        "bytes": 30418,
+        "sha256": "5cfb3519d84e33fde52fd4956f4ea6faa935ebc314e51704f69f2c3192907e58"
+      }
+    },
+    "40153248": {
+      "png": {
+        "path": "assets/40153248.png",
+        "bytes": 40027,
+        "sha256": "76bab95180c324a97ab902876cfbbb46e7aff0426880427747b3e90a615642da"
+      },
+      "svg": {
+        "path": "assets/40153248.svg",
+        "bytes": 20423,
+        "sha256": "98132104f920efaa149c6e44eb62047611a0c32ad027d46b05a722f1354a3eff"
+      },
+      "_duplicate_of_files": [
+        "40153308.png",
+        "40153308.svg"
+      ]
+    },
+    "40153308": {
+      "png": {
+        "path": "assets/40153308.png",
+        "bytes": 40027,
+        "sha256": "76bab95180c324a97ab902876cfbbb46e7aff0426880427747b3e90a615642da"
+      },
+      "svg": {
+        "path": "assets/40153308.svg",
+        "bytes": 20423,
+        "sha256": "98132104f920efaa149c6e44eb62047611a0c32ad027d46b05a722f1354a3eff"
+      },
+      "_duplicate_of_files": [
+        "40153248.png",
+        "40153248.svg"
+      ]
+    },
+    "40153368": {
+      "png": {
+        "path": "assets/40153368.png",
+        "bytes": 21119,
+        "sha256": "79cf0678b8c42c7fdfe2dc07e809899c9e277c830b9fe59b82a50a76f91e6cf9"
+      },
+      "svg": {
+        "path": "assets/40153368.svg",
+        "bytes": 7657,
+        "sha256": "8cd89e26b8693d634461a5d6ec7a4b5cb4323378fd6107d2be742cde7d0ba027"
+      }
+    },
+    "40153415": {
+      "png": {
+        "path": "assets/40153415.png",
+        "bytes": 18582,
+        "sha256": "c72e6d1e7ad800555f8db51e9548e8b1a53e00846f5c7a8672ae2aa27b8e4028"
+      },
+      "svg": {
+        "path": "assets/40153415.svg",
+        "bytes": 8039,
+        "sha256": "ced02ed0ccb6f9e3a26e1610293c78615000c20d9241c33b1baddf5db720aea2"
+      }
+    },
+    "40266665": {
+      "png": {
+        "path": "assets/40266665.png",
+        "bytes": 29115,
+        "sha256": "75e1033bfd90c623e11eb936ad99d9be4aecd52aaa99dd2df491e30a846cab52"
+      },
+      "svg": {
+        "path": "assets/40266665.svg",
+        "bytes": 28884,
+        "sha256": "d40212564a24b97f163bb30b9ffca12e04332013cdfe3bfc622f5fa4f5c99731"
+      },
+      "_duplicate_of_files": [
+        "40279288.png",
+        "40279288.svg",
+        "40279307.png",
+        "40279307.svg"
+      ]
+    },
+    "40279288": {
+      "png": {
+        "path": "assets/40279288.png",
+        "bytes": 29115,
+        "sha256": "75e1033bfd90c623e11eb936ad99d9be4aecd52aaa99dd2df491e30a846cab52"
+      },
+      "svg": {
+        "path": "assets/40279288.svg",
+        "bytes": 28884,
+        "sha256": "d40212564a24b97f163bb30b9ffca12e04332013cdfe3bfc622f5fa4f5c99731"
+      },
+      "_duplicate_of_files": [
+        "40266665.png",
+        "40266665.svg",
+        "40279307.png",
+        "40279307.svg"
+      ]
+    },
+    "40279307": {
+      "png": {
+        "path": "assets/40279307.png",
+        "bytes": 29115,
+        "sha256": "75e1033bfd90c623e11eb936ad99d9be4aecd52aaa99dd2df491e30a846cab52"
+      },
+      "svg": {
+        "path": "assets/40279307.svg",
+        "bytes": 28884,
+        "sha256": "d40212564a24b97f163bb30b9ffca12e04332013cdfe3bfc622f5fa4f5c99731"
+      },
+      "_duplicate_of_files": [
+        "40266665.png",
+        "40266665.svg",
+        "40279288.png",
+        "40279288.svg"
+      ]
+    },
+    "40279312": {
+      "png": {
+        "path": "assets/40279312.png",
+        "bytes": 46020,
+        "sha256": "8f93dd59bfe7518ecdef8ee8cfd5418914e8960165b6976f2e8a7d4cd5ee25dc"
+      },
+      "svg": {
+        "path": "assets/40279312.svg",
+        "bytes": 18302,
+        "sha256": "001ea9db5307b25e255e6dadd20f52c7cdb0943994170bee43b3f2b23fe07776"
+      }
+    },
+    "40279426": {
+      "png": {
+        "path": "assets/40279426.png",
+        "bytes": 29252,
+        "sha256": "ee8fa6b310169aef003a6faaefc5e76656738ae3e402397ca905a3f0b88176c4"
+      },
+      "svg": {
+        "path": "assets/40279426.svg",
+        "bytes": 4187,
+        "sha256": "7837b12050a4775b930b332498059289c398d6c06a389b8f4a82f2d49bcaf146"
+      }
+    },
+    "40279433": {
+      "png": {
+        "path": "assets/40279433.png",
+        "bytes": 133079,
+        "sha256": "93251df4eee7e71f748857f58126f8c9b956609917d93a2f54763b0eb5589a8a"
+      },
+      "svg": {
+        "path": "assets/40279433.svg",
+        "bytes": 77302,
+        "sha256": "81d8fc8add30662b3b58c4f9b311cb60502c75b5c2d630d3782f25b922b5f53b"
+      }
+    },
+    "40279438": {
+      "png": {
+        "path": "assets/40279438.png",
+        "bytes": 90671,
+        "sha256": "6051ca699a6c8637095738503415f5a94f074ed6c81ef2fe56fe1eda88e48c72"
+      },
+      "svg": {
+        "path": "assets/40279438.svg",
+        "bytes": 36861,
+        "sha256": "f73cea0346ceb928468ed27465d85684486c8eee677f59b9f182babdb84a8aef"
+      }
+    },
+    "40279442": {
+      "png": {
+        "path": "assets/40279442.png",
+        "bytes": 34605,
+        "sha256": "d13a6b220e4cd052b30f7ca618fa733db2f920566b636ecd2dbc6088ed2c3686"
+      },
+      "svg": {
+        "path": "assets/40279442.svg",
+        "bytes": 15516,
+        "sha256": "1b6ba81376308b51d097bc8cfe2e549918e46307e68b1f9e6c409be0b195fbb8"
+      }
+    },
+    "40279455": {
+      "png": {
+        "path": "assets/40279455.png",
+        "bytes": 85432,
+        "sha256": "92a78465e880589f673d1e455adb7357070e634593fd462a91ca5eab35ed780b"
+      },
+      "svg": {
+        "path": "assets/40279455.svg",
+        "bytes": 39611,
+        "sha256": "314223151fa7c9e42fac6fba4105376e576e353b4635bbb2a3979da5ec98ad4a"
+      }
+    },
+    "40279462": {
+      "png": {
+        "path": "assets/40279462.png",
+        "bytes": 16760,
+        "sha256": "d8b8aec22f53c892a7af740f9c081306ce39b7182ff3e3435836e9a3b5964261"
+      },
+      "svg": {
+        "path": "assets/40279462.svg",
+        "bytes": 5086,
+        "sha256": "0c8403f883d8f1f84fb83bc13918237cc7273efa3d9bf5954a693d49b72bff87"
+      }
+    },
+    "40279466": {
+      "png": {
+        "path": "assets/40279466.png",
+        "bytes": 131551,
+        "sha256": "030934d4ea69e8235d0d73c178207a90b937dab7f85a769895e8032076d4f9a5"
+      },
+      "svg": {
+        "path": "assets/40279466.svg",
+        "bytes": 92411,
+        "sha256": "175c2d2f89b688c20fe6b98993f0910d5afd814d1745f01bba6018a24a914c07"
+      },
+      "_duplicate_of_files": [
+        "40279471.png",
+        "40279471.svg"
+      ]
+    },
+    "40279471": {
+      "png": {
+        "path": "assets/40279471.png",
+        "bytes": 131551,
+        "sha256": "030934d4ea69e8235d0d73c178207a90b937dab7f85a769895e8032076d4f9a5"
+      },
+      "svg": {
+        "path": "assets/40279471.svg",
+        "bytes": 92411,
+        "sha256": "175c2d2f89b688c20fe6b98993f0910d5afd814d1745f01bba6018a24a914c07"
+      },
+      "_duplicate_of_files": [
+        "40279466.png",
+        "40279466.svg"
+      ]
+    },
+    "41242358": {
+      "png": {
+        "path": "assets/41242358.png",
+        "bytes": 255912,
+        "sha256": "16457fefe31e08ceb413bca505d352f2605db8e3aa2f44a1ed3066c6594c679e"
+      },
+      "svg": {
+        "path": "assets/41242358.svg",
+        "bytes": 40975,
+        "sha256": "4135da9c652e3b3433bbbb14a5d49047616927171b4fd7ea4ff0bb8b16948be2"
+      },
+      "_duplicate_of_files": [
+        "41403352.png",
+        "41403352.svg"
+      ]
+    },
+    "41403352": {
+      "png": {
+        "path": "assets/41403352.png",
+        "bytes": 255912,
+        "sha256": "16457fefe31e08ceb413bca505d352f2605db8e3aa2f44a1ed3066c6594c679e"
+      },
+      "svg": {
+        "path": "assets/41403352.svg",
+        "bytes": 40975,
+        "sha256": "4135da9c652e3b3433bbbb14a5d49047616927171b4fd7ea4ff0bb8b16948be2"
+      },
+      "_duplicate_of_files": [
+        "41242358.png",
+        "41242358.svg"
+      ]
+    },
+    "47138068": {
+      "png": {
+        "path": "assets/47138068.png",
+        "bytes": 26245,
+        "sha256": "6846aa8b66c8b3a03a2be5fe55a81749a90c99ba67d7aa629bed25cb5e5fca05"
+      },
+      "svg": {
+        "path": "assets/47138068.svg",
+        "bytes": 12887,
+        "sha256": "fbf196a0437e962e5f42e212d1ac79eaa7e9e2d974eca7a12ab2b526c13b1c98"
+      }
+    }
+  }
+}
