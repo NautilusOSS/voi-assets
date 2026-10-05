@@ -6,7 +6,7 @@ Asset logo images keyed by asset ID, plus a machine-readable index.
 
 ```text
 assets.json          # index of all assets
-assets/
+icons/
   {assetId}.png
   {assetId}.svg
 ```
